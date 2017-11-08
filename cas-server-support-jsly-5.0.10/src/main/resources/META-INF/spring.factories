@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.apereo.cas.web.flow.config.OtherCaptchaConfiguration,\
+ org.apereo.cas.adaptors.jdbc.config.CasJdbcConfiguration,\
+ org.apereo.cas.exception.ExceptionAuthenticationConfiguration
